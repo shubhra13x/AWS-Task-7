@@ -1,0 +1,17 @@
+account_id: '897722692779'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-8660/d8338d15/task07
+expiration: 2025-03-12 12:16:07.318841+00:00
+extended_prefix_mode: true
+project_path: C:\Users\shubhra_mohapatra\Documents\epam-learning\AWS Tasks\AWS Task
+  7
+region: eu-west-1
+resources_prefix: cmtr-d8338d15-
+tags:
+  run_id: JAP-09
+  run_type: stm
+  type: user
+  user_id: d8338d15
+temp_aws_access_key_id: ASIA5CBDRGSVV3BZZKEP
+temp_aws_secret_access_key: KuSaM2vKiS5tkTijnUt6r2tOgpQx0fP841xrJesj
+temp_aws_session_token: IQoJb3JpZ2luX2VjEHQaCXVzLWVhc3QtMSJGMEQCIAltVK0fHkrZAWRnXW8ptU4TI7Oe2pP6JBH/mGf8dmoTAiAtnbevYj9yCj1b+oNJ1N9uLetfe2uBxMEiwvPRGP6siirjAgi9//////////8BEAAaDDg5NzcyMjY5Mjc3OSIMbhGcOSRvWWNPQR8vKrcCXZhuBfzqV8cD10zV0CNrj3Wes60kWyQaxUngfO87U+DVZKbwvfiG7ILYDDi/DHCg2sbsWmqAYuUkHfsD1oIrg6Y6NhVX2JgcXY0zF7w0bkduNJrG+l3sXoK2abLfzxMnVaDhqKjYsvMKjMhvkerCA4D9eV4p/eHaLBCdVJxlmBqA0mDowEzsOn7YFli6q+C/7/g5T4YQaXLR5U7j82EFzWG6kv12IGCnYO1PGXopHDnV9LSDW9j8eZdf+4//7vwI30FIcfm8L1f/+icX1gsWCkq2emaRaQtiUOT4+Z+HJ4JByVC/Yiwm5s1JARNw6L2yq49t9LMpJBh/2y9iW8e5waNg13txaur1bX/XJFceJbSZX7dYBUeHyDKF/ageSW/Q4kmhGKX6AESux0lTs1Hd0RV7QacqUNAwu97FvgY6ngFdKE8JjkG9Sgv+4HEEn15FwqO4vL20s1x82HToxiuNHc5vcvUTC8s7FgUnjo9UgaLP1R6to7/1S6B2JbbUgEalUsf7F69AE0OYPSjS33vHT8khcuZdCzDOro292+7XZf4FBcB6rx//YyJcMcy5701/sgoOx/nrWJEJqzVlZuiYMxYMF/yeazoI/4++wAswczuZ6xyRsjf+GajiXraD2w==
+use_temp_creds: false
